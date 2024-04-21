@@ -1,0 +1,8 @@
+.DS_Store
+*.mypy_cache
+.envrc
+data
+.direnv/
+env
+__pycache__
+data/
